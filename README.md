@@ -7,7 +7,7 @@
 - Criar Exchanges.
 - Criar Queues.
 - Criar Bindings.
-- Consumir filas
+- Consumir filas.
 
 ## Tech
 
